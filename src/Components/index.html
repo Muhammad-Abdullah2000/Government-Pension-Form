@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <form action="/action_page.php">
+  <label for="country_code">Country code:</label>
+  <input type="text" id="country_code" name="country_code"
+  pattern="[A-Za-z]{3}" title="Three letter country code"><br><br>
+  <input type="submit">
+</form>
+
+<input type="text"  data-inputmask="'mask': '99999-9999999-9'"  placeholder="XXXXX-XXXXXXX-X"  name="cnic" required="" >
+
+<input type="text"  data-inputmask="'mask': '0399-99999999'" required=""  type = "number" maxlength = "12" >
+
+<form action="somefile.php">
+    <input
+        type="text"
+        name="username"
+        placeholder="Username"
+        pattern="[a-z]{1,15}"
+        id="username">
+        <input type="submit">
+</form>
+<script>
+var input = document.getElementById('username');
+input.oninvalid = function(event) {
+    event.target.setCustomValidity('Username should only contain lowercase letters. e.g. john');
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.feild1{
+    height: 300px;
+    margin-bottom: 100px;
+    width: 1002px;
+    margin-left: 203px;
+}
+.lengend{
+  
+    width: 170px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+legend{
+    font-size: 18px;
+    font-weight: bold;
+}
+#line{
+    background: black;
+    height: 2px;
+    font-size: 0px;
+    margin-left: -1px;
+    width: 166px;
+}
+#cnic{
+   position: relative;
+   top: 15px;
+   margin-left: 22px;
+}
+#ist{
+   width: 35px;
+   margin-left: 50px;
+}
+#sec{
+    width: 35px;
+   
+}
+#third{
+    width: 35px;
+}
+#fourth{
+    width: 35px;
+}
+#fifth{
+    width: 35px;
+}
+#sixth{
+  
+    border: 0.1px solid grey;
+    height: 20px;
+    border-radius: 2px;
+   width: 35px;
+}
+#sixth, placeholder{
+  
+    font-weight: bold;
+    color: black;
+    text-align: center;
+ }
+ #name{
+    position: relative;
+    top: 20px;
+    margin-left: 22px;
+ }
+ #name1{
+    margin-left: 150px;
+    width: 30px;
+ }
+ #name2{
+    width: 30px;
+ }
+ #name3{
+    width: 30px;
+ }
+ #name4{
+    width: 30px;
+ }
+ #name5{
+    width: 30px;
+ }
+ #name6{
+    width: 30px;
+ }
+ #name7{
+    width: 30px;
+ }
+ #name8{
+    width: 30px;
+ }
+ #name9{
+    width: 30px;
+ }
+ #name10{
+    width: 30px;
+ }
+ #name11{
+    width: 30px;
+ }
+ #name12{
+    width: 30px;
+ }
+ #name13{
+    width: 30px;
+ }
+ #name14{
+    width: 30px;
+ }
+ #name15{
+    width: 30px;
+ }
+ #name16{
+    width: 30px;
+ }
+ #name17{
+    width: 30px;
+ }
+ #name18{
+    width: 30px;
+ }
+ #name19{
+    width: 30px;
+ }
+ #name2{
+    width: 30px;
+ }
+ #father{
+   position: relative;
+   top: 30px;
+   margin-left: 22px;
+ }
+ #father1{
+   width: 30px;
+   margin-left: 29px;
+ }
+ #father2{
+   width: 30px;
+ }
+ #father3{
+   width: 30px;
+ }
+ #father4{
+   width: 30px;
+ }
+ #father5{
+   width: 30px;
+ }
+ #father6{
+   width: 30px;
+ }
+ #father7{
+   width: 30px;
+ }
+ #father8{
+   width: 30px;
+ }
+ #father9{
+   width: 30px;
+ }
+ #father10{
+   width: 30px;
+ }
+ #father11{
+   width: 30px;
+ }
+ #father12{
+   width: 30px;
+ }
+ #father13{
+   width: 30px;
+ }
+ #father14{
+   width: 30px;
+ }
+ #father15{
+   width: 30px;
+ }
+ #BDay{
+   position: relative;
+   top: 36px;
+   margin-left: 21px;
+ }
+ #BDay1{
+   width: 30px;
+   margin-left: 100px;
+ }
+ #BDay2{
+   width: 30px;
+ }
+ #BDay3, placeholder{
+   width: 30px;
+   border: 1px solid grey ;
+   height: 20px;
+   border-radius: 2px;
+   text-align: center;
+   font-weight: bold;
+   color: black;
+ }
+ #BDay4{
+   width: 30px;
+ }
+ #BDay5{
+   width: 30px;
+ }
+ #BDay6{
+   width: 30px;
+   border: 1px solid grey ;
+   height: 20px;
+   border-radius: 2px;
+   text-align: center;
+   font-weight: bold;
+   color: black;
+ }
+ #BDay7{
+   width: 30px;
+ }
+ #BDay8{
+   width: 30px;
+ }
+ #BDay9{
+   width: 30px;
+ }
+ #BDay10{
+   width: 30px;
+   background-size: cover;
+ }
+ #gender{
+  position: relative;
+  top: 46px;
+  margin-left: 20px;
+ }
+ #male{
+  width: 80px;
+  margin-left: 100px;
+ }
+ #female{
+  width: 80px;
+ }
+ #bd{
+  position: relative;
+  top: 60px;
+  margin-left: 20px;
+ }
+ #BD{
+  border: none;
+  border-bottom: 1px solid black;
+  margin-left: 57px;
+ }
+ #moi{
+  position: relative;
+  top: 75px;
+  margin-left: 20px;
+ }
+ #MOF{
+  border: none;
+  border-bottom: 1px solid black;
+  margin-left: 47px;
+  width: 230px;
+ }
+ #phone{
+  position: relative;
+  top: 85px;
+  margin-left: 20px;
+ }
